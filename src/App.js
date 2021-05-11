@@ -68,7 +68,7 @@ const App = () => {
       <History history={history} moveTo={moveTo} currentMove={currentMove} />
       <div className="bg-balls" />
     </div>
-      <h3>@kiyo.dib_takamine</h3>
+     
   );
 };
 
