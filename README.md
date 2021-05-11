@@ -1,6 +1,9 @@
 # Click the below link to open the website.
 website link - https://tictact.surge.sh/
 
+#Tic Tac Toe
+<img src="./images/Screenshot (53).png" width=50%>
+
 
 # Nano React App Default Javascript Template
 
